@@ -2,3 +2,18 @@
     margin: 92px auto 0;
     max-width: 984px;
 }
+
+
+@media (max-width: 768px) {
+    .intro {
+        margin: 88px auto 0;
+        width: 90%;
+    }
+}
+
+@media (max-width: 320px) {
+    .intro {
+        margin: 64px auto 0;
+        width: 90%;
+    }
+}

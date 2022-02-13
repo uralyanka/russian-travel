@@ -4,4 +4,6 @@
     opacity: 0.3;
     color: #FFFFFF;
     width: 100%;
+    grid-row: 1;
+    grid-column: 1;
 }
