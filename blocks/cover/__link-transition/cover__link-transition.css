@@ -1,7 +1,0 @@
-.cover__link-transition {
-    transition: background-color .4s ease;
-}
-  
-.cover__link-transition:hover {
-    background-color: rgba(42, 44, 47, .8);
-}
