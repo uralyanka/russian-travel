@@ -2,9 +2,17 @@
     margin-right: 18px;
 }
 
-@media screen and (max-width: 545px) {
+.footer__link-item:last-child {
+    margin-right: 0;
+    }
+
+@media (max-width: 600px) {
     .footer__link-item {
         margin-bottom: 32px;
         }
-    }
+
+    .footer__link-item:last-child {
+        margin-bottom: 48px;
+        }
+}
     
