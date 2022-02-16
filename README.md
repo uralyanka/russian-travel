@@ -2,7 +2,7 @@
 
 ## Описание проекта
 * 5 блоков для стимуляции желания "Все бросить и поехать на оленях сквозь всю Россию"
-[ссылка на GitHub Pages](https://uralyanka.github.io/russian-travel/)
+* [ссылка на GitHub Pages](https://uralyanka.github.io/russian-travel/)
 
 ### Что получилось
 - с 3 раза отладить работу с git
