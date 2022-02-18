@@ -1,5 +1,14 @@
 .cover__overlay {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 100%;
+    margin: 0 auto;
+    width: 92%;
     text-decoration: none;
-    background-color: rgba(42, 44, 47, .3);
-    width: 100%;
+}
+
+@media (max-width: 1024px) {
+    .cover__overlay {
+        width: 100%;
+    }
 }

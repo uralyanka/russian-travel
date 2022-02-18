@@ -7,7 +7,7 @@
     width: 560px;
 }
 
-@media (max-width: 520px) {
+@media (max-width: 560px) {
     .cover__title {
         font-size: 50px;
         width: 75%;
