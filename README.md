@@ -1,5 +1,7 @@
 # Проект: Путешествие по России
 
+* [ссылка на GitHub Pages]
+
 ## Описание проекта
 * 5 блоков для стимуляции желания "Все бросить и поехать на оленях сквозь всю Россию"
 * [ссылка на GitHub Pages](https://uralyanka.github.io/russian-travel/)
@@ -12,7 +14,7 @@
 - перечитывать тетрадку-косатку
 - гриды
 - работать с фигмой [макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
-- вставка кода svg
+- вставка кода svg (но почему-то автотесты при отправке кода не пропустили)
 - оптимизировать картинки
 - использовать [figure](https://developer.mozilla.org/ru/docs/Web/HTML/Element/figure)
 
